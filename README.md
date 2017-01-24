@@ -29,7 +29,7 @@ Using [npm](https://www.npmjs.com/):
 
 Then with a module bundler like [webpack](https://webpack.github.io/) that supports either CommonJS or ES2015 modules, use as you would anything else:
 
-```js
+```
 // using an ES6 transpiler, like babel
 import Radio from 'Radio';
 
@@ -64,8 +64,6 @@ handleChange(e) {
 }
 ```
 
-
-See more in the [Introduction](/docs/Introduction.md), [Guides](/docs/guides/README.md), and [Examples](/examples).
 
 ### Versioning and Stability
 
