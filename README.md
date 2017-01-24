@@ -69,11 +69,11 @@ See more in the [Introduction](/docs/Introduction.md), [Guides](/docs/guides/REA
 
 ### Versioning and Stability
 
-We want DebugContent to be a stable dependency that’s easy to keep current. We take the same approach to versioning as React.js itself: [React Versioning Scheme](https://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html).
+We want Radio to be a stable dependency that’s easy to keep current. We take the same approach to versioning as React.js itself: [React Versioning Scheme](https://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html).
 
 ### Thanks
 
-To Jim and Michael, fellow coders!
+To CPC project team where this was developed.
 
 [React]: https://facebook.github.io/react
 [build-badge]: https://img.shields.io/travis/ReactTraining/react-router/master.svg?style=flat-square
