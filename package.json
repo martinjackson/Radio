@@ -1,0 +1,39 @@
+{
+  "name": "Radio",
+  "version": "0.1.0",
+  "main": "Radio.js",
+  "description": "Radio is simple [React] component with radio button behavior.",
+  "keywords": [
+    "ReactJS",
+    "debug"
+  ],
+  "author": "Martin A. Jackson",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinjackson/Radio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martinjackson/Radio/issues"
+  },
+  "homepage": "https://github.com/martinjackson/Radio",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.22.0"
+  },
+  "babel": {
+    "presets": [
+      "latest",
+      "react"
+    ]
+  },
+  "scripts": {
+    "build": "babel  Radio.es6 --out-file Radio.js",
+    "prepublish": "npm run build"
+  }
+}
